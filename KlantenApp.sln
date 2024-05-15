@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KlantenUI", "KlantenUI\KlantenUI.csproj", "{F3410091-4FBB-41D9-B923-992BFA3DC2AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Model", "Model\Model.csproj", "{421D4DE0-6774-487D-880D-16F4E93ED81F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{F0E84C35-444D-4C17-8C9E-16ED281A14CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3410091-4FBB-41D9-B923-992BFA3DC2AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3410091-4FBB-41D9-B923-992BFA3DC2AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3410091-4FBB-41D9-B923-992BFA3DC2AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3410091-4FBB-41D9-B923-992BFA3DC2AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{421D4DE0-6774-487D-880D-16F4E93ED81F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{421D4DE0-6774-487D-880D-16F4E93ED81F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{421D4DE0-6774-487D-880D-16F4E93ED81F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{421D4DE0-6774-487D-880D-16F4E93ED81F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0E84C35-444D-4C17-8C9E-16ED281A14CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0E84C35-444D-4C17-8C9E-16ED281A14CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0E84C35-444D-4C17-8C9E-16ED281A14CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0E84C35-444D-4C17-8C9E-16ED281A14CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1035AAB7-2E25-451D-A9F4-E096FE4BF600}
+	EndGlobalSection
+EndGlobal
